@@ -1,6 +1,6 @@
 name: Apply
 description: Apply for a Page
-title: "Application for USERNAME"
+title: "Application for a Page"
 labels: ["application"]
 body:
   - type: input

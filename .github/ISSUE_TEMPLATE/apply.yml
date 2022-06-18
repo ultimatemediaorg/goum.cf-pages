@@ -1,0 +1,61 @@
+name: Apply
+description: Apply for a Page
+title: "Application for USERNAME"
+labels: ["application"]
+body:
+  - type: input
+    id: vanity
+    attributes:
+      label: Vanity URL
+      description: What do you want on the end of "goum.cf/u/"?
+    validations:
+      required: true
+  - type: input
+    id: name
+    attributes:
+      label: Your (nick)name
+      description: Can be different from your vanity URL
+    validations:
+      required: true
+  - type: dropdown
+    id: theme
+    attributes:
+      label: Theme
+      multiple: false
+      options:
+        - Dark
+    validations:
+      required: true
+  - type: input
+    id: avatar
+    attributes:
+      label: Avatar URL
+      description: Link us to the avatar you want to use
+      placeholder: ex. https://github.com/C1200.png
+    validations:
+      required: true
+  - type: input
+    id: job
+    attributes:
+      label: Job
+      placeholder: ex. Web Developer
+  - type: input
+    id: location
+    attributes:
+      label: Location
+      placeholder: ex. United Kingdom
+  - type: textarea
+    id: about
+    attributes:
+      label: About You
+      description: Tell us about yourself
+    validations:
+      required: true
+  - type: textarea
+    id: links
+    attributes:
+      label: Links
+      description: Please put each link on a new line and add a label
+      placeholder: |
+        YouTube: https://youtube.com/XXXXXXX
+        Discord Server: https://discord.gg/XXXXXXX

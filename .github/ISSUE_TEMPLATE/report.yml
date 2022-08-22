@@ -1,0 +1,19 @@
+name: Report
+description: Report a Page
+title: "Reporting a Page"
+labels: ["report abuse"]
+body:
+  - type: input
+    id: vanity
+    attributes:
+      label: Vanity URL
+      description: What is the page URL?
+    validations:
+      required: true
+  - type: textarea
+    id: about
+    attributes:
+      label: Message
+      description: Explain, in as much detail as possible, why you are reporting this page
+    validations:
+      required: true

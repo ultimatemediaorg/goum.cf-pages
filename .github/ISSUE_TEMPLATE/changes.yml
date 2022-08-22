@@ -1,0 +1,19 @@
+name: Get Changes
+description: Change Something on a Page
+title: "Editing a Page"
+labels: ["changes"]
+body:
+  - type: input
+    id: vanity
+    attributes:
+      label: Vanity URL
+      description: What is your vanity URL?
+    validations:
+      required: true
+  - type: textarea
+    id: about
+    attributes:
+      label: Changes Needed
+      description: Explain what you need changing
+    validations:
+      required: true

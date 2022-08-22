@@ -11,7 +11,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: about
+    id: message
     attributes:
       label: Message
       description: Explain, in as much detail as possible, why you are reporting this page

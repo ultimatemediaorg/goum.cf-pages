@@ -11,7 +11,7 @@ body:
     validations:
       required: true
   - type: textarea
-    id: about
+    id: changes
     attributes:
       label: Changes Needed
       description: Explain what you need changing

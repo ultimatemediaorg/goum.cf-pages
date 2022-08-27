@@ -11,11 +11,11 @@
 <a href="https://github.com/ultimatemediaorg/goum.cf-pages/issues/new/choose">Apply</a>
 
 <h2>Showcase</h2>
-<a href="/u/C1200" class="screenshot">
-    <img src="https://goum.cf/uploads/screenshot1.jpeg" alt="Screenshot">
+<a href="/u/C1200">
+    <img src="https://goum.cf/uploads/screenshot1.jpeg" alt="Screenshot" width="300">
 </a>
-<a href="/u/C1200" class="screenshot">
-    <img src="https://goum.cf/uploads/screenshot2.jpeg" alt="Screenshot">
+<a href="/u/C1200">
+    <img src="https://goum.cf/uploads/screenshot2.jpeg" alt="Screenshot" width="300">
 </a>
 
 <h2>Features</h2>

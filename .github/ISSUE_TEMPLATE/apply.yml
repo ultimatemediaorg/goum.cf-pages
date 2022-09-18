@@ -21,6 +21,7 @@ body:
     id: theme
     attributes:
       label: Theme
+      description: Visualise and create themes at https://goum.cf/pages/themes
       multiple: false
       options:
         - Dark

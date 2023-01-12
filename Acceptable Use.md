@@ -1,7 +1,5 @@
 # goum.cf Pages Acceptable Use Policy
 
-***Effective: 14/1/2023***
-
 Notice: All goum.cf Pages are given at Ultimate Media's discretion.
 
 All content on and linked to by goum.cf Pages must:

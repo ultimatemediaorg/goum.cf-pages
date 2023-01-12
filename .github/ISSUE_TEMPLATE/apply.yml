@@ -61,3 +61,9 @@ body:
       placeholder: |
         YouTube: https://youtube.com/XXXXXXX
         Discord Server: https://discord.gg/XXXXXXX
+  - type: checkboxes
+    id: policies
+    attributes:
+      options:
+        - label: I agree to the Acceptable Use Policy found at https://goum.cf/pages/acceptableuse
+          required: true

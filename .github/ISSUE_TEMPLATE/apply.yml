@@ -65,5 +65,5 @@ body:
     id: policies
     attributes:
       options:
-        - label: I agree to the Acceptable Use Policy found at https://goum.cf/pages/acceptableuse
+        - label: I agree to the [Acceptable Use Policy](https://goum.cf/pages/acceptableuse)
           required: true

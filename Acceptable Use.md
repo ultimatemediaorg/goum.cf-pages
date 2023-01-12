@@ -16,7 +16,7 @@ All content on and linked to by goum.cf Pages must:
   - ethnicity
   - religion or belief, including lack of religion or belief
   - age
-- Not promote one of the following:
+- Not promote any of the following:
   - alcohol
   - drugs, including medication
   - weapons and weapon schematics

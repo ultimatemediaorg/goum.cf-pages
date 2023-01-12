@@ -64,6 +64,7 @@ body:
   - type: checkboxes
     id: policies
     attributes:
+      label: Acceptable Use Policy
       options:
         - label: I agree to the [Acceptable Use Policy](https://goum.cf/pages/acceptableuse)
           required: true
